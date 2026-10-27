@@ -4,12 +4,12 @@
   <p>Transformação de dados históricos em ações futuras.<br/><b>KPIs Executivos. Visão Omnichannel.</b></p>
 
   <p>
-    <a href="#overview">Visão Geral</a> ·
-    <a href="#dataset">Estrutura dos Dados</a> ·
-    <a href="#kpis">Indicadores Chave</a> ·
-    <a href="#insights">Insights Críticos</a> ·
-    <a href="#architecture">Arquitetura & Stack</a> ·
-    <a href="#trade-offs">Trade-offs</a>
+    <a href="Dashboard Preview">Visão Geral</a> ·
+    <a href="## 📊 Estrutura e Diagnóstico dos Dados (`data/base_Modulo01.csv`)">Estrutura dos Dados</a> ·
+    <a href="## 📸 Visão em Ação">Indicadores Chave</a> ·
+    <a href="## 🔍 Principais Insights Extraídos da Análise">Insights Críticos</a> ·
+    <a href="## 🏗️ Arquitetura do Projeto & Pipeline de Dados">Arquitetura & Stack</a> ·
+    <a href="## ⚖️ Trade-offs de Engenharia e Design no Power BI">Trade-offs</a>
   </p>
 
   <!-- Badges -->
@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 Estrutura e Diagnóstico dos Dados (`base_Modulo01.csv`)
+## 📊 Estrutura e Diagnóstico dos Dados (`data/base_Modulo01.csv`)
 
 O projeto baseia-se em um conjunto de dados transacionais limpo e estruturado contendo **2.000 registros** de vendas. Abaixo estão as principais características estatísticas extraídas da base:
 
