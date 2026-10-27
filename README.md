@@ -3,15 +3,6 @@
   <h3>Análise de Desempenho Comercial do 1º Semestre para Otimização Estratégica do 2º Semestre.</h3>
   <p>Transformação de dados históricos em ações futuras.<br/><b>KPIs Executivos. Visão Omnichannel.</b></p>
 
-  <p>
-    <a href="Dashboard Preview">Visão Geral</a> ·
-    <a href="## 📊 Estrutura e Diagnóstico dos Dados (`data/base_Modulo01.csv`)">Estrutura dos Dados</a> ·
-    <a href="## 📸 Visão em Ação">Indicadores Chave</a> ·
-    <a href="## 🔍 Principais Insights Extraídos da Análise">Insights Críticos</a> ·
-    <a href="## 🏗️ Arquitetura do Projeto & Pipeline de Dados">Arquitetura & Stack</a> ·
-    <a href="## ⚖️ Trade-offs de Engenharia e Design no Power BI">Trade-offs</a>
-  </p>
-
   <!-- Badges -->
   <p>
     <img src="https://img.shields.io/badge/powerbi-report-yellow?style=flat-square&logo=powerbi" alt="Power BI" />
