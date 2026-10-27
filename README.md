@@ -20,7 +20,7 @@
   </p>
 
   <!-- Screenshot Principal do Dashboard -->
-  <img src="images/preview_dashboard.png" alt="Dashboard Preview" width="100%"/>
+  <img src="images/dashboard.png" alt="Dashboard Preview" width="100%"/>
 </div>
 
 > **Olhar apenas para o faturamento total esconde os gargalos operacionais.** Enquanto o acumulado do semestre aparenta estabilidade, uma análise granular revela assimetrias importantes de ticket médio e sazonalidade entre os canais de distribuição que ditam o planejamento para o segundo semestre.
